@@ -23,4 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.xtm.qidashi.mingnews", appContext.getPackageName());
     }
+
+
 }

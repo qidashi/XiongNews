@@ -24,7 +24,7 @@ public class SplashActivity extends AppCompatActivity {
 
     private void initAnim() {
         AlphaAnimation alphaAnimation = new AlphaAnimation(0, 1);
-        alphaAnimation.setDuration(3000);
+        alphaAnimation.setDuration(2000);
         alphaAnimation.setFillAfter(true);
         alphaAnimation.setAnimationListener(new Animation.AnimationListener() {
             @Override
